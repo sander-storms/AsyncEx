@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Nito.Collections;
 
-[assembly:InternalsVisibleTo("AsyncEx.Coordination.UnitTests")]
+[assembly:InternalsVisibleTo("AsyncEx.Coordination.UnitTests, PublicKey=002400000480000094000000060200000024000052534131000400000100010029fe3e7619c554178ea5963353375084938b3a86185755d5ed1df0f8838a778e1bec6f84e41345b1995921484f83fa6e0d5a0139620bdc8653fd3c48866147fd08121386a5d8527ad7695a258e35bcffd965f6ee57c9ebfb020a3cf2ccb51e5d947fc2ddaa261b94553fea570eb050c068a5374982f84f90f9e716759e4751f3")]
 
 namespace Nito.AsyncEx
 {
