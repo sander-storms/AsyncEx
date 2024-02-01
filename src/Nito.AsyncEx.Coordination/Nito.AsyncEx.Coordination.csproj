@@ -9,10 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Nito.Collections.Deque" Version="1.1.1" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\Deque\src\Nito.Collections.Deque\Nito.Collections.Deque.csproj" />
+    <ProjectReference Include="..\Disposables\src\Nito.Disposables\Nito.Disposables.csproj" />
     <ProjectReference Include="..\Nito.AsyncEx.Tasks\Nito.AsyncEx.Tasks.csproj" />
   </ItemGroup>
 

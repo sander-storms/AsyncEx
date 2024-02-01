@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Nito.Disposables" Version="2.2.1" />
+    <ProjectReference Include="..\Disposables\src\Nito.Disposables\Nito.Disposables.csproj" />
   </ItemGroup>
 
 </Project>

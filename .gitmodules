@@ -1,0 +1,9 @@
+[submodule "src/Deque"]
+	path = src/Deque
+	url = ../Deque.git
+[submodule "src/Disposables"]
+	path = src/Disposables
+	url = ../Disposables.git
+[submodule "src/Cancellation"]
+	path = src/Cancellation
+	url = ../Cancellation.git

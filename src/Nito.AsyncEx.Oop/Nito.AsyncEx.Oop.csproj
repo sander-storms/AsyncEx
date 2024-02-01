@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Disposables\src\Nito.Disposables\Nito.Disposables.csproj" />
     <ProjectReference Include="..\Nito.AsyncEx.Coordination\Nito.AsyncEx.Coordination.csproj" />
   </ItemGroup>
 
