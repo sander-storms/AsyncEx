@@ -7,7 +7,7 @@
     <PackageTags>async;await;async-await;task;asynchronous;nito;nitro</PackageTags>
     <IsMetapackage>true</IsMetapackage>
     <SignAssembly>True</SignAssembly>
-    <AssemblyOriginatorKeyFile>D:\git\Impressions\hardnesstesterV4\3rdparty\AsyncEx\AsyncEx.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>..\..\AsyncEx.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
